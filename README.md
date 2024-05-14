@@ -1,4 +1,4 @@
-# dot3_demo
+# Flutter Calculator Game
 
 A new Flutter project.
 
